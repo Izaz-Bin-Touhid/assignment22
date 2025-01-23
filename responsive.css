@@ -90,3 +90,21 @@
     .text4 {
       margin: 10px;
     }
+
+    .foot {
+        grid-template-columns: 1fr;
+      }
+    
+      .kid-education p {
+        text-align: left;
+      }
+    
+      .foot-nav {
+        align-items: flex-start;
+        margin-top: 34px;
+      }
+    
+      .social {
+        margin-top: 34px;
+      }
+    
