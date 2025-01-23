@@ -1,0 +1,21 @@
+@media screen and (max-width: 680px) {
+    
+    .hero,
+    .curricu,
+    .s-container,
+    .foot {
+      width: calc(100% - 40px);
+      margin: 0px auto;
+    }
+    img {
+      width: 100%;
+    }
+  
+    /* Nav bar */
+    .laptop {
+      display: none;
+    }
+    .mo {
+      display: flex;
+      flex-direction: column;
+    }
